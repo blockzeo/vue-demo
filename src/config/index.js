@@ -1,0 +1,1 @@
+module.exports.GLOBAL_API_DOMAIN = '/wlxy/';

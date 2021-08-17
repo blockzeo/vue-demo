@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>提示icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18.5948426,9.20069036 L17.8794721,18.9721015 C17.7807919,20.1813604 17.1809949,21.0880406 15.9999594,21.0880406 C14.8190051,21.0880406 14.2194924,20.1813604 14.1203655,18.9721015 L13.4049949,9.20069036 C13.2163249,6.90014213 14.1303553,4.81352284 15.9999594,4.81352284 C17.8698071,4.81352284 18.7839594,6.90014213 18.5948426,9.20069036 M15.9999594,27.4302132 C14.9346599,27.4302132 14.0710254,26.5665787 14.0710254,25.5012792 C14.0710254,24.4358985 14.9346599,23.5723452 15.9999594,23.5723452 C17.0652995,23.5723452 17.9288934,24.4358985 17.9288934,25.5012792 C17.9288934,26.5665787 17.0652995,27.4302132 15.9999594,27.4302132 M15.9999594,4.06091371e-05 C7.1631269,4.06091371e-05 0,7.16324873 0,15.9995533 C0,24.8364264 7.1631269,32 15.9999594,32 C24.8371168,32 31.9999594,24.8364264 31.9999594,15.9995533 C31.9999594,7.16324873 24.8371168,4.06091371e-05 15.9999594,4.06091371e-05" id="path-1"></path>
+        <filter x="-34.4%" y="-21.9%" width="168.8%" height="168.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.960784314   0 0 0 0 0.133333333   0 0 0 0 0.176470588  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="电子校园卡" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="B1_1_5用户管理_删除子部门-" transform="translate(-616.000000, -417.000000)">
+            <g id="弹窗" transform="translate(480.000000, 320.000000)">
+                <g id="Group-8" transform="translate(142.000000, 99.000000)">
+                    <g id="提示icon">
+                        <use fill="#F5222D" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
