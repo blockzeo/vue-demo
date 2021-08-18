@@ -4,6 +4,7 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import { Button, ButtonGroup, Card, Dropdown, DropdownMenu, DropdownItem, Dialog, Form, FormItem, Tooltip, Table, TableColumn, Pagination, Switch, Scrollbar, Tree, Popover, Cascader, Checkbox, CheckboxGroup, Tabs, TabPane, Radio, RadioGroup, Select, Option, Upload, Input, Autocomplete, DatePicker, Menu, Submenu, MenuItem, Transfer } from 'element-ui'
+import 'element-ui/lib/theme-chalk/index.css'
 Vue.use(Button)
 Vue.use(Dropdown)
 Vue.use(DropdownMenu)
